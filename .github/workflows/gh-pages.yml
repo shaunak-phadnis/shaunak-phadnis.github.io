@@ -19,7 +19,7 @@ jobs:
           extended: true           # extended version for SCSS
 
       - name: Build site
-        run: hugo --minify      # generates public/
+        run: hugo --minify --source exampleSite     # generates public/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
