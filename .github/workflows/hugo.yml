@@ -25,6 +25,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        env:
+          HUGO_THEME_MODULE: "false"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
