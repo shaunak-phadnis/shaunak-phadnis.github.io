@@ -8,6 +8,8 @@ Here is a list of my papers and presentations.
 
 - Neu, Eva, Rajesh Bhatt, and **Shaunak Phadnis**. 2025. “Degrees of Animacy and Telicity in Hindi Intransitives: A Corpus Study”. Proceedings of the Linguistic Society of America 10 (1): 5923. [DOI](https://doi.org/10.3765/plsa.v10i1.5923)
 
+- Phadnis, Shaunak, Carla Spellerberg, and Brynne Wilkinson (eds). 2024. NELS 54: Proceedings of the fifty-fourth annual meeting of the North East Linguistics Society. Amherst, MA: GLSA.
+
 - Phadnis, Shaunak. 2023. "*and-a-half* Numeral constructions in Hindi". Proceedings of (Formal) Approaches to South Asian Languages 12. [pdf](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/article/view/293)
 
 
