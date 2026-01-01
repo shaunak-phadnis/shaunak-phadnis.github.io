@@ -1,10 +1,16 @@
 ---
 title: "About"
 ---
-<img src="/images/profile.jpeg" width="250" style="float:right; margin: 0 0 1rem 1rem;">
 
-I am a 3rd year PhD student at UMass Linguistics. I mainly work in Formal Pragmatics which is ideal because I find communication confusing and fascinating. I like to think about how speakers are able to communicate various messages/signals/intentions without actually stating them explicitly. Due to this, I also like to think about Social Meaning and Philosophy of Langauge. In general I think about how conversations work. I also have a latent interest in how events are represented in our cognitive architecture. I am big fan of LoTH. 
+## How to say my name
 
-Before coming to UMass I worked as a Conversational UX designer at a start-up. Before that I did my masters at EFLU, Hyderabad. Before that, I did my bachelors in Mathematics. 
+In Marathi, it is [ʃəʊ.'nək fəɖ.'ɳis] which is hard for most people. I prefer the Hindi pronunciation of my name which is /ʃɔ.'nək/ as it is the one I have heard more often in my life than the actual pronunciation at this point. Even though the right pronunciation of my last name is /phəɖ.ɳis/, I very strongly prefer the fricative over the plosive. 
 
-In my free time I like to read comic books, cook delicious meals, and discover and write [music](https://falseflagindia.bandcamp.com/). 
+## Languages
+
+As is common for Indian folks, I grew up speaking three languages - Marathi (native), Hindi (near-native), English (professional fluency). I can sort of understand conversational Bangla. I once successfully bargained in Bangla with an auto rikshaw guy at New Jalpaiguri railway station. I have lost that ability now. 
+
+## Hobbies
+
+In my free time I like to read comic books, cook delicious meals, discover obscure music, and watch Jiminy Glick. I also write [music](https://falseflagindia.bandcamp.com/) - I really really like odd-time signatures. I love watermelons and prefer bowls over plates. 
+
