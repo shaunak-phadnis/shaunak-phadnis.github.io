@@ -1,6 +1,6 @@
-baseurl: "https://example.org/"  # please update this to your actual URL
+baseurl: "https://shaunak-phadnis.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Hello!"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -19,14 +19,14 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Output
+      url: "output/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: Teaching
+      url: "teaching/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
+   # - name: Subscribe
+    #  url: "index.xml"
 
 params:
   description: "A website built through Hugo and blogdown."
