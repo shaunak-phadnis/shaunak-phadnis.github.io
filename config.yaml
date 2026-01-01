@@ -1,15 +1,15 @@
 baseurl: "https://shaunak-phadnis.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "Shaunak Phadnis"
-# theme: "hugo-xmin"
+theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩" 
 
-module:
-  imports:
-    - path: github.com/yihui/hugo-xmin
+#module:
+#  imports:
+#    - path: github.com/yihui/hugo-xmin
     
 # theme: "hugo-xmin"
 
