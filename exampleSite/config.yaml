@@ -1,6 +1,6 @@
 baseurl: "https://shaunak-phadnis.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "Hello!"
+title: "Shaunak Phadnis"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -14,23 +14,25 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: ""
+      url: "/"
       weight: 1
     - name: About
-      url: "about/"
+      url: "/about/"
       weight: 2
     - name: Output
-      url: "output/"
+      url: "/output/"
       weight: 3
     - name: Teaching
-      url: "teaching/"
+      url: "/teaching/"
       weight: 4
+
    # - name: Subscribe
     #  url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [BlueSky](https://bsky.app/profile/yihui.org)"
+  description: ""
+  footer: "&copy; Shaunak Phadnis {Year}"
+  footer: "&copy; Shaunak Phadnis {Year} | [Google Scholar](https://scholar.google.com/citations?user=gvn-fXAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/shaunak-phadnis-a09333214/)"
 
 markup:
   highlight:
