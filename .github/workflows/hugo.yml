@@ -24,9 +24,17 @@ jobs:
           git clone https://github.com/yihui/hugo-xmin themes/hugo-xmin
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo -d public --minify
+          echo "### ls root ###"
+          ls -la
+          echo "### ls public ###"
+          ls -la public || true
+          echo "### find public ###"
+          find public -maxdepth 3 -type f -print || true
         env:
           HUGO_THEME_MODULE: "false"
+
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
