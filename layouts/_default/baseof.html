@@ -3,10 +3,14 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
+  {{ partial "head_custom.html" . }}
 </head>
 <body>
 
+  {{ partial "header.html" . }}    <!-- <- this shows the nav -->
+
   {{ block "main" . }}{{ end }}
 
+  {{ partial "footer.html" . }}
 </body>
 </html>
