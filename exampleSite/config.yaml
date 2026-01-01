@@ -31,7 +31,6 @@ menu:
 
 params:
   description: ""
-  footer: "&copy; Shaunak Phadnis {Year}"
   footer: "&copy; Shaunak Phadnis {Year} | [Google Scholar](https://scholar.google.com/citations?user=gvn-fXAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/shaunak-phadnis-a09333214/)"
 
 markup:
