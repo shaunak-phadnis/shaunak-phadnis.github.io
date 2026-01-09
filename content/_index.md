@@ -15,7 +15,11 @@ More specifically, I am interested in:
  - Off-record communication and signaling strategies (Insinuations, Dogwhistles, Two-tracked conversations)
  - Discourse particles in South Asian languages and discursive strategies they conventionalize.
 
-Thus, this grounds my research in Formal Pragmatics and its interface with Semantics on one hand and Social meaning/Philosophy of Language on the other. Apart from this, I also like thinking about Syntax, specifically Agreement and person system in Hindi/Marathi. I have a latent fascination with representation of event structures in cognition.
+Thus, this grounds my research in Formal Pragmatics and its interface with Semantics on one hand and Social meaning/Philosophy of Language on the other. Apart from this, I also like thinking about Syntax, specifically:
+- Adverbial agreement in Indo-Aryan.
+- Person agreement in Marathi.
+
+I have a latent fascination with representation of event structures in cognition.
 
 **Email:** sphadnis[at]umass[dot]edu
 
