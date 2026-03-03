@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-<img src="/images/websitePhoto.jpeg" width="250" style="float:right; margin: 0 0 1rem 1rem;">
-
 ## How to say my name
 
 In Marathi, it is [ʃəʊ.'nək fəɖ.'ɳis] which is hard for most people. I prefer the Hindi pronunciation of my name which is /ʃɔ.'nək/ as it is the one I have heard more often in my life than the actual pronunciation at this point. Even though the right pronunciation of my last name is /p<sup>h</sup>əɖ.ɳis/, I very strongly prefer the fricative over the plosive. 
