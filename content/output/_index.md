@@ -15,7 +15,14 @@ Here is a list of my papers and presentations.
 
 ## Presentations
 
+### Talks 
+
+- *Not on the same page: case of bara in Marathi*. Penn Linguistics Colloquium 50 at University of Pennsylvania, Philadelphia on February 28 to March 1 2026
 - *Not on the same page: case of bara in Marathi*. Workshop on Discourse Particles in South Asian Languages at IIT-Delhi. 12-22-2025
 - *lowkey*. Southern New England workshop in Semantics at UMass Amherst. 11-22-2025
-- *Negative meaning without negation: case of bara in Marathi*. Formal Approaches to South Asian Languages 15 (FASAL 15) at the University of Texas, Austin on April 11 to April 13 2025.
+- *Negative meaning without negation: case of bara in Marathi*. Formal Approaches to South Asian Languages 15 (FASAL 15) at the University of Texas, Austin on April 11 to April 13 2025
 - *and-a-half Numeral constructions in Hindi* (Online). Formal Approaches to South Asian Languages 12 (FASAL 12) at University of Utah, Salt Lake City on 09 and 10 April, 2022
+
+### Posters
+
+- *and-a-half Numeral constructions in Hindi*. 4th Crete Summer school in Linguistics at University of Crete, July 15 to July 28, 2023, Rethymnon, Crete.
