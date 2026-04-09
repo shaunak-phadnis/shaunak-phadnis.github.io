@@ -26,8 +26,8 @@ I have a latent fascination with representation of event structures in cognition
  
 ## News
 
+- 04/08/2026: [New paper](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/article/view/359) out in FASAL 15 proceedings!
 - 03/01/2026: I gave a talk at [PLC50@UPenn](https://sites.google.com/sas.upenn.edu/plc50/home) titled "Not on the same page: case of _bərə_ in Marathi". 
 - 12/22/2025: I presented my paper about puzzling Marathi discourse particle _bərə_ at [DiPSAL](https://sites.google.com/view/dipsal/home)@IIT-Delhi.
 - 11/22/2025: I presented my work on the English slang *lowkey* at SNEWS held at UMass. 
-- 06/09/2025: I defended my first GP titled "Negative meaning without negation: case of _bərə_ in Marathi" advised by Rajesh Bhatt and María Biezma.
-- 04/12/2025: I was at FASAL15 held at UT-Austin. I presented my first GP on Marathi discourse particle *bərə*.
+
