@@ -30,3 +30,4 @@ Here is a list of my papers and presentations.
 ### Posters
 
 - *and-a-half Numeral constructions in Hindi*. 4th Crete Summer school in Linguistics at University of Crete, July 15 to July 28, 2023, Rethymnon, Crete.
+- *Not on the same page: Negotiating not-at-issue meaning with bərə (Marathi)*. West Coast Conference on Formal Linguistics 44 at Universidad Nacional Autónoma de México (UNAM), May 6–8, 2026, Mexico city.
