@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## Fall 26 -- LING510 Intro to Formal Semantics
 
-- <a href="/TA-Handouts/Fall-26/f26-510L-W6review.pdf">Midterm review</a>
+- <a href="/TA-Handouts/Fall-26/Midterm review.pdf">Midterm review</a>
 
 - <a href="/TA-Handouts/Fall-26/f26-510L-W6review.pdf">Week 6 review</a>
 
