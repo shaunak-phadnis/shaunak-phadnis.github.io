@@ -100,6 +100,6 @@ Faculty advisors: María Biezma, Ana Arregui
 
 ## Sponsors
 
-The workshop is made possible by generous support from Graduate student government of UMass, Linguistics department, Spanish & Portuguese studies, Department of Languages, Literature, and Culture, and Philosophy department.
+The workshop is made possible by generous support from Graduate student government of UMass, Linguistics department, Spanish & Portuguese studies, Department of Languages, Literature, and Culture, and Department of Philosophy.
 
 [Back to top](#)
