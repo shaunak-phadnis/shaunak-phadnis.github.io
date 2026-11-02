@@ -18,9 +18,7 @@ sitemap:
 ## About {#about}
 -->
 *April 24-25, 2027*
-
 *Linguistics department, Room N400*
-
 *Integrative Learning Center, 650 N Pleasant St, Amherst, MA 01003* 
 
 In recent years, the “social” turn in philosophy of language has generated a growing body of work that challenges the standard Gricean–Stalnakerian picture of communication and its understanding of the common ground. This literature questions the view of conversational context as a single, shared body of information (e.g., Camp 2018; Harris 2020; Berstler 2025; Simons 2025). Related work on harmful speech, ideologically laden content, and social meaning investigates the roles of ideology and perspective in the construction of meaning (e.g., Kukla 2018 and Nunberg 2018 on slurs; Henderson & McCready 2024 on dogwhistles; Biezma 2025 on mock language).
