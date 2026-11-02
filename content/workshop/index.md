@@ -55,9 +55,9 @@ Abstracts should be no more than two pages, using letter-size or A4 paper with 1
 
 ## Important dates
 
-\[Nov 2nd\] Abstract Submissions open
+\[Nov 2\] Abstract Submissions open
 
-\[Dec 21st\] Submissions close
+\[Dec 21\] Submissions close
 
 \[Feb 10\] Notifications of acceptance
 
