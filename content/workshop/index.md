@@ -1,6 +1,6 @@
 ---
 title: "Non-ideal communication and the architecture of the common ground (NICTACG)"
-description: "workshop of common ground and non-ideal communication"
+description: "workshop on common ground and non-ideal communication"
 type: workshop
 url: /nictacg-2027/
 noindex: true          # draft: hidden from search engines
