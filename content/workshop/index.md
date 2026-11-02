@@ -3,12 +3,6 @@ title: "Non-ideal communication and the architecture of the common ground (NICTA
 description: "workshop on common ground and non-ideal communication"
 type: workshop
 url: /nictacg-2027/
-noindex: true          # draft: hidden from search engines
-build:
-  list: never          # draft: not in lists, RSS or the sitemap
-  render: always       # but the page is still built at its URL
-sitemap:
-  disable: true
 ---
 
 <!---
