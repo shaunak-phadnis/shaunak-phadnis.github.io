@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ if .Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
+</head>
+<body>
+  <main>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </main>
+</body>
+</html>
