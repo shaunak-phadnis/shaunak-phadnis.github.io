@@ -19,7 +19,7 @@ sitemap:
 -->
 *April 24-25, 2027*
 
-*Linguistics department, Room N400*
+*UMass Linguistics department, Room N400*
 
 *Integrative Learning Center, 650 N Pleasant St, Amherst, MA 01003* 
 
