@@ -19,7 +19,7 @@ sitemap:
 -->
 *April 24-25, 2027*
 
-*Department of Linguistics, Room N400*
+*Linguistics department, Room N400*
 
 *Integrative Learning Center, 650 N Pleasant St, Amherst, MA 01003* 
 
@@ -31,8 +31,9 @@ This workshop aims to bring together researchers in linguistics, philosophy, and
 ## Invited Speakers {#speakers}
 
 - **Mandy Simons**, Carnegie Melon University
-- **Willow Starr**, Cornell University
 - **Sam Berstler**, MIT
+- **Willow Starr**, Cornell University
+
 
 For any information, contact [Shaunak Phadnis](mailto:sphadnis@umass.edu), or [Gabriel Levc](mailto:glevc@umass.edu)
 
@@ -40,7 +41,11 @@ For any information, contact [Shaunak Phadnis](mailto:sphadnis@umass.edu), or [G
 
 We invite abstracts for 30-minute talks (followed by 15 minutes of Q&A) from scholars at all career stages. We particularly encourage submissions from graduate students and early-career researchers. Relevant topics include, but are not limited to, dynamic context management, indirect communication, not-at-issueness, social meaning, plausible deniability, and the role of perspectives (Camp 2019)  in communication. More broadly, we welcome work that complicates or reconsiders standard Stalnakerian accounts of context and presupposition, as well as Gricean models of cooperative communication.
 
-Abstracts must be submitted as PDFs via [Oxford Abstracts](https://app.oxfordabstracts.com/stages/84331/submitter) by December 21, 2026.
+Abstracts must present original research in progress that has not been published or accepted for publication at the time of submission. Each individual may submit a maximum of one abstract as a sole author and one as a co-author, or two abstracts as a co-author.
+
+Abstracts should be no more than two pages, using letter-size or A4 paper with 1-inch (2.54 cm) margins on all sides and 12-point Times New Roman font. A third page may be included exclusively for references, large figures, or tables. 
+
+Abstracts must be submitted as PDFs via [Oxford Abstracts](https://app.oxfordabstracts.com/stages/84331/submitter) by December 21, 2026. 
 
 <!---
 Abstracts must present original research in progress that has not been published or accepted for publication at the time of submission. Each individual may submit a maximum of one abstract as a sole author and one as a co-author, or two abstracts as a co-author.
@@ -95,6 +100,6 @@ Faculty advisors: María Biezma, Ana Arregui
 
 ## Sponsors
 
-The workshop is made possible by generous support from Graduate student government of UMass, Department of Spanish & Portuguese studies, LLC, Department of Linguistics, and Department of Philosophy.
+The workshop is made possible by generous support from Graduate student government of UMass, Linguistics department, Spanish & Portuguese studies, Department of Languages, Literature, and Culture, and Department of Philosophy.
 
 [Back to top](#)
