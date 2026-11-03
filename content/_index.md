@@ -27,6 +27,7 @@ I have a latent fascination with representation of event structures in cognition
  
 ## News
 
+- I am co-organizing an inter-disciplinary workshop on non-ideal communication and the common ground in spring 2027! check the details and a CfA [here](shaunak-phadnis.github.io/nictacg-2027)!
 - 04/08/2026: [New paper](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/article/view/359) out in FASAL 15 proceedings!
 - 03/01/2026: I gave a talk at [PLC50@UPenn](https://sites.google.com/sas.upenn.edu/plc50/home) titled "Not on the same page: case of _bərə_ in Marathi". 
 - 12/22/2025: I presented my paper about puzzling Marathi discourse particle _bərə_ at [DiPSAL](https://sites.google.com/view/dipsal/home)@IIT-Delhi.
