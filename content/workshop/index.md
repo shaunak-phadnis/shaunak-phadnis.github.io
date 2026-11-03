@@ -33,7 +33,7 @@ For any information, contact [Shaunak Phadnis](mailto:sphadnis@umass.edu), or [G
 
 ## Call for Abstracts
 
-We invite abstracts for 30-minute talks (followed by 15 minutes of Q&A) from scholars at all career stages. We particularly encourage submissions from graduate students and early-career researchers. Relevant topics include, but are not limited to, dynamic context management, indirect communication, not-at-issueness, social meaning, plausible deniability, and the role of perspectives (Camp 2019)  in communication. More broadly, we welcome work that complicates or reconsiders standard Stalnakerian accounts of context and presupposition, as well as Gricean models of cooperative communication.
+We invite abstracts for 30-minute talks (followed by 15 minutes of Q&A) from scholars at all career stages. We particularly encourage submissions from graduate students and early-career researchers. Relevant topics include, but are not limited to, dynamic context management, indirect communication, not-at-issueness, social meaning, plausible deniability, and the role of perspectives (Camp 2019)  in communication. More broadly, we welcome work that complicates or reconsiders standard Stalnakerian accounts of context and presupposition, as well as Gricean models of cooperative communication. Note that all the abstracts will be considered for an **in person** presentation. There will not be a zoom option.
 
 Abstracts must present original research in progress that has not been published or accepted for publication at the time of submission. Each individual may submit a maximum of one abstract as a sole author and one as a co-author, or two abstracts as a co-author.
 
