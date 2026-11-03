@@ -24,8 +24,8 @@ This workshop aims to bring together researchers in linguistics, philosophy, and
 
 ## Invited Speakers {#speakers}
 
-- **Mandy Simons**, Carnegie Melon University
 - **Sam Berstler**, MIT
+- **Mandy Simons**, Carnegie Melon University
 - **Willow Starr**, Cornell University
 
 
