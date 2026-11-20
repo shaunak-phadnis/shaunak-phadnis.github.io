@@ -1,0 +1,6 @@
+h1 { border-bottom: 1px solid #888; padding-bottom: .4rem; }      /* underline */
+img.right { float: right; width: 35%; margin: 0 0 1rem 1.5rem; }  /* image on the right */
+h2 { clear: both; }               /* each section starts below the image */
+table { width: 100%; }
+td { vertical-align: top; }
+@media (max-width: 600px) { img.right { float: none; width: 100%; margin: 0 0 1rem; } }
